@@ -1,4 +1,5 @@
- "#1 Single";2006;Los Angeles, California, USA
+movie;year;address
+"#1 Single";2006;Los Angeles, California, USA
 "#1 Single";2006;New York City, New York, USA
 "#2WheelzNHeelz";2017;Nashville, Tennessee, USA
 "#ATown";2014;Spiderhouse Cafe, Austin, Texas, USA
@@ -22756,7 +22757,6 @@
 "Kababayan Weekly";2017;Los Angeles, California, USA
 "Kabachok 13 stulev";1969;Moscow, Russia
 "Kabare";2012;Belgrade, Serbia
-"Kabarett im Turm";2016;Ringturm; Vienna, Austria
 "Kabarettgipfel";2017;Wiener Stadthalle, Vienna, Austria
 "Kaboul Kitchen";2012;Morocco
 "Kachol Amok";1997;Tel Aviv, Israel
@@ -40785,7 +40785,6 @@
 "Taarak Mehta Ka Ooltah Chashmah";2008;Ahmedabad, Gujarat, India
 "Taarak Mehta Ka Ooltah Chashmah";2008;Film City, Goregaon, Mumbai, Maharashtra, India
 "Taarak Mehta Ka Ooltah Chashmah";2008;Mumbai, Maharashtra, India
-"Tabaq Ramadan";2011;Dubai Festival City; Dubai, UAE
 "Tabatha's Salon Takeover";2008;Los Angeles, California, USA
 "Tabatha's Salon Takeover";2008;New York City, New York, USA
 "Tabing ilog";2000;Pagsanjan, Laguna, Philippines
@@ -54186,7 +54185,3 @@
 "twenties: the series";2014;North Hollywood, Los Angeles, California, USA
 "twenties: the series";2014;Agoura Hills, California, USA
 "twenties: the series";2014;Downtown, Los Angeles, California, USA
-"uGugu no Andile";2008;Thokoza Township, East Rand, Gauteng, South Africa
-"unReal Housewives of Kansas City";2009;Kansas City, Missouri, USA
-"under[cover]employed";2012;Los Angeles, California, USA
-"zdf@bauhaus";2011;Bauhaus Dessau, Dessau, Saxony-Anhalt, Germany
