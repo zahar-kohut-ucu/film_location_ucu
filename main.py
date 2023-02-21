@@ -77,11 +77,11 @@ def main(year, latitude, longitude, path, mydatapath):
     default_layer.add_child(folium.Marker(location=[float(latitude), float(longitude)],
                                           popup='Your location.',
                                           icon=folium.Icon(color = "red")))
-    default_layer.add_to(map)
-    movies_layer.add_to(map)
-    my_layer.add_to(map)
-    folium.LayerControl(collapsed=False).add_to(map)
-    _map.save('test.html')
+    default_layer.add_to(_map)
+    movies_layer.add_to(_map)
+    my_layer.add_to(_map)
+    folium.LayerControl(collapsed=False).add_to(_map)
+    _map.save('index.html')
     if not locations:
         print('No movies which suit your data.')
 
