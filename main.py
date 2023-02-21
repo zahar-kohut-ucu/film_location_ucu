@@ -34,7 +34,7 @@ args = parser.parse_args()
 def main(year, latitude, longitude, path, mydatapath):
     '''
     Creates map which that shows the closest to given point
-    places where movies in a given year where shooted.
+    places where movies in a given year where shot.
     '''
     _map = folium.Map(location=[float(latitude), float(longitude)], zoom_start=5)
     default_layer = folium.FeatureGroup(name='Default')
